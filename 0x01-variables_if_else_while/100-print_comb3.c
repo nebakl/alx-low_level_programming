@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints out all the numbers between 00 and 99
- * with no two digits being the same
- * Return: 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success/completed)
  */
 int main(void)
 
@@ -36,4 +36,6 @@ putchar('\n');
 
 
 return (0);
+
+
 }
