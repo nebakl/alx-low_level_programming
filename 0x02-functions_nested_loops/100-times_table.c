@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_times_table - print multiplication table up to n
- *
+ * print_times_table - print the n times_table.
+ * 
  * @n: integer argument
  *
  */
