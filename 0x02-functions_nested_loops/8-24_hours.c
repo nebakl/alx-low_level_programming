@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer -prints every minute of the day
- *
+ * Description: print minutes 00:00 to 23:59
  * Return: Always 0.
  */
 
