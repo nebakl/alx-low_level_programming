@@ -1,13 +1,12 @@
 #include "main.h"
 
 /**
- * manin - chekc the code
+ * main - chekc the code
  *
- * Return: Always 0.
+ * Retrun: Always 0.
  */
 int main(void)
-
 {
 	jack_bauer();
 	return (0);
-}
+}	
