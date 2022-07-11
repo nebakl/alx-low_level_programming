@@ -1,1 +1,1 @@
-Pointers, arrays and strings
+Pointers, arrays and stings c task s
