@@ -17,14 +17,14 @@ char *rot13(char *c)
 	while (*c)
 	{
 		for (i = 0; i <= 52;  i++)
+		{
+			if (*c == rot13[i])
+			{
+				*c = ROT13[i];
+				break;
+			}
+		}
+		c++;
 	}
-	if (*c == rot13[i])
-	{
-		*c = ROT13[i];
-		break;
-	}
-}
-c++;
-}
-return (str);
+	return (str);
 }
